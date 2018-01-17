@@ -4,7 +4,7 @@ title: 'sad很快就'
 subtitle: '老子不信'
 date: 2017-05-18
 categories: 技术 iOS 
-cover: 'https://github.com/LuWeiCQ/LuWeiCQ.github.io/blob/master/assets/img/hero.jpg'
+cover: 'https://github.com/LuWeiCQ/LuWeiCQ.github.io/blob/master/assets/img/hero.jpg?raw=true'
 tags: jekyll 前端开发 设计 ios huhi 
 ---
 
