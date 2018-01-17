@@ -2,9 +2,9 @@
 layout: post
 title: '第一次写写看'
 date: 2017-04-18
-author: lw
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
-tags: jekyll
+author: 卢伟
+cover: 'https://github.com/LuWeiCQ/LuWeiCQ.github.io/blob/master/assets/img/hero.jpg'
+tags: 生活
 ---
 
 > Transform your plain text into static websites and blogs.
