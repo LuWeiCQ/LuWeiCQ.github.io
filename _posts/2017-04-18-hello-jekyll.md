@@ -3,7 +3,7 @@ layout: post
 title: '第一次写写看'
 date: 2017-04-18
 author: 卢伟
-cover: 'https://github.com/LuWeiCQ/LuWeiCQ.github.io/blob/master/assets/img/hero.jpg'
+cover: 'https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1694240432,3664501847&fm=27&gp=0.jpg'
 tags: 生活
 ---
 
